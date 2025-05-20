@@ -1,4 +1,4 @@
-# My Django Project
+#  Project
 
 This is a Django project for predicting house prices in Bangalore based on various features such as square footage, number of bathrooms, number of bedrooms (BHK), and location.
 
